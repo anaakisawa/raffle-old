@@ -6,10 +6,8 @@ class Input extends Component {
       <div className="Input">
         <input type = "text">
       </div>
-
     );
   }
-
 }
 
 export default Input;
