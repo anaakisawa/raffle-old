@@ -4,10 +4,10 @@ class Input extends Component {
   render () {
     return (
       <div className="Input">
-	    <input type = "text">
-	  </div>
+        <input type = "text">
+      </div>
 
-	);
+    );
   }
 
 }
