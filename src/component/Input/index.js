@@ -3,11 +3,11 @@ import React, { Component } from 'react';
 class Input extends Component {
   render () {
     return (
-	  <div className="Input">
-	    P<input type = "text">
+      <div className="Input">
+	    <input type = "text">
 	  </div>
 
-			);
+	);
   }
 
 }
