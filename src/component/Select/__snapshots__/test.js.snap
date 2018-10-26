@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Select renders a dropdown element 1`] = `
+<div
+  className="custom-select"
+>
+  <select>
+    <option
+      value="auto"
+    >
+      auto
+    </option>
+    <option
+      value="vip"
+    >
+      vip
+    </option>
+    <option
+      value="tecnologia"
+    >
+      tecnologia
+    </option>
+  </select>
+</div>
+`;
