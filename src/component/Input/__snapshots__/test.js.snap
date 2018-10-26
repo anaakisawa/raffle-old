@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Component - App renders an input element 1`] = `
+exports[`Component - Input renders an input element 1`] = `
 <div
   className="Input"
 >

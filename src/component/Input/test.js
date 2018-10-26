@@ -2,7 +2,7 @@ import React from 'react';
 import Input from './index';
 import renderer from 'react-test-renderer';
 
-describe('Component - App', () => {
+describe('Component - Input', () => {
   test('renders an input element', () => {
     const component = renderer.create(
       <Input/>,
