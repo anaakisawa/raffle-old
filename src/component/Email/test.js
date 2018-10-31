@@ -1,12 +1,12 @@
 
 import React from 'react';
-import Header from './index';
+import Email from './index';
 import renderer from 'react-test-renderer';
 
-describe('Component - Header', () => {
-  test('renders a text element', () => {
+describe('Component - Email', () => {
+  test('renders an email form', () => {
     const component = renderer.create(
-      <Header text="it works"/>,
+      <Email/>,
     );
 
     const tree = component.toJSON();

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Email renders an email form 1`] = `
+<div
+  className="Email"
+>
+  <div
+    className="Header"
+  >
+    Qual o seu email?
+  </div>
+  <div
+    className="Input"
+  >
+    <input
+      type="text"
+    />
+  </div>
+  <button
+    className="Button"
+  >
+    Continuar
+  </button>
+</div>
+`;
