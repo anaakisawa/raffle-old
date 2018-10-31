@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component - Select renders a department selection element 1`] = `
+<div
+  className="Department"
+>
+  <div
+    className="Header"
+  >
+    Selecione a sua área
+  </div>
+  <div
+    className="custom-select"
+  >
+    <select>
+      <option
+        value="auto"
+      >
+        auto
+      </option>
+      <option
+        value="vip"
+      >
+        vip
+      </option>
+      <option
+        value="tecnologia"
+      >
+        tecnologia
+      </option>
+    </select>
+  </div>
+  <button
+    className="Button"
+  >
+    Ok
+  </button>
+</div>
+`;
